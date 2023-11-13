@@ -2,7 +2,7 @@
   "name": "odin-restaurant",
   "version": "1.0.0",
   "description": "This is a restaurant home page made using Javascript to practice webpack for The Odin Project Javascript Course",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
